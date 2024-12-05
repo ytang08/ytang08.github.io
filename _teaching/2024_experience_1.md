@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Tucson, USA"
 ---
 
-Teaching an online class ("International Relations") at the undergraduate level at the University of Arizona during the Summer of 2024.
+Teaching an online class ("International Relations") at the undergraduate level at the University of Arizona during the Summer and Fall of 2024.
 
 Heading 1
 ======

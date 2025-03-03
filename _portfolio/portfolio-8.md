@@ -1,4 +1,3 @@
-
 ---
 title: "Teaching Certificate"
 excerpt: "Short description of portfolio item number 8 <br/><img src='/images/500x300.png'>"

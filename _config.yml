@@ -218,7 +218,7 @@ defaults:
   # _teaching e-portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: teaching eportfolio
     values:
       layout: single
       author_profile: true

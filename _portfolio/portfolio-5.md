@@ -1,4 +1,3 @@
-
 ---
 title: "Sample Lesson Plan"
 excerpt: "Short description of portfolio item number 5<br/><img src='/images/500x300.png'>"

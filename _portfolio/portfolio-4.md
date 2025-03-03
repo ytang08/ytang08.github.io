@@ -1,6 +1,6 @@
 
 ---
-title: "Teaching Philosophy"
+title: "Student Evaluation"
 excerpt: "Short description of portfolio item number 4<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  teaching-e-portfolio:
+  teaching_ePortfolio:
     output: true
     permalink: /:collection/:path/
 
@@ -218,7 +218,7 @@ defaults:
   # _teaching e-portfolio
   - scope:
       path: ""
-      type: teaching-e-portfolio
+      type: teaching_ePortfolio
     values:
       layout: single
       author_profile: true

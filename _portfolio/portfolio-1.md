@@ -1,6 +1,6 @@
 ---
 title: "Teaching Philosophy"
-excerpt: This is my teaching philosophy. <br/><img src='/images/teachph1.png'>"
+excerpt: This is my teaching philosophy. <br/><img src='/images/teachph2.png'>"
 collection: portfolio
 ---
 

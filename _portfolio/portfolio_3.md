@@ -1,5 +1,5 @@
 ---
-title: "Letter of Evaluation"
+title: "Letter of Evaluation (from peers)"
 excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

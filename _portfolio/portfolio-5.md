@@ -1,6 +1,6 @@
 ---
 title: "Sample Lesson Plan"
-excerpt: "Short description of portfolio item number 5<br/><img src='/images/500x300.png'>"
+excerpt: "This is a sample lesson plan that I had taught in Spring 2025.<br/><img src='/images/sample_lesson_plan.png’>”
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Middle Term Survey"
-excerpt: "Short description of portfolio item number 7<br/><img src='/images/500x300.png'>"
+excerpt: "This is a midterm survey that I plan to use for the class that I will be teaching in Fall 2025.<br/><img src='/images/midterm_survey.png'>"
 collection: portfolio
 ---
 

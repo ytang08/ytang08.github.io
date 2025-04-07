@@ -1,7 +1,7 @@
 
 ---
 title: "Letter of Evaluation (from a faculty member)"
-excerpt: "This is a placeholder for the Teaching Certificate that I am planning to receive in the future.<br/><img src='/images/teaching_certificate.png'>"
+excerpt: "This is an evaluation letter by a faculty member (at SGPP) for a class that I taught in Spring 2025.<br/><img src='/images/faculty_evaluation_letter.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Letter of Evaluation (from peers)"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
+excerpt: "This is a peer evaluation letter for a class that I taught in Spring 2025.<br/><img src='/images/peer_evaluation_letter'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Teaching Certificate"
-excerpt: "Short description of portfolio item number 8 <br/><img src='/images/500x300.png'>"
+excerpt: "This is a placeholder for the Teaching Certificate that I am planning to receive in the future.<br/><img src='/images/teaching_certificate.png'>"
 collection: portfolio
 ---
 

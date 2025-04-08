@@ -1,7 +1,7 @@
 ---
 title: "Teaching Philosophy"
 excerpt: This is my teaching philosophy. <br/><img src='/images/teachph2.png'> <br/>
-  <a href='/assets/pdf/Teaching-Philosophy-Yongfeng-Tang.pdf' target='_blank'>Download PDF</a>
+  <a href='/assets/pdf/teaching_philosophy_Yongfeng.pdf' target='_blank'>Download PDF</a>
 collection: portfolio
 ---
 

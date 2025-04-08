@@ -1,6 +1,6 @@
 ---
 title: "Sample Syllabus"
-excerpt: "This is a sample syllabus that I can potentially teach in the future at the undergraduate level. A PDF version can be found below the picture. <br/><img src='/images/introcp.png>' <br/>
+excerpt: "This is a sample syllabus that I can potentially teach in the future at the undergraduate level. A PDF version can be found below the picture. <br/><img src='/images/introcp.png'> <br/>
   <a href='/assets/pdf/POL204_syllabus_YT.pdf' target='_blank'>Download PDF</a>"
 collection: portfolio
 ---

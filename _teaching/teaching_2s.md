@@ -4,7 +4,7 @@ excerpt: "This is a sample syllabus that I can potentially teach in the future a
   <a href='/assets/pdf/POL204_syllabus_YT.pdf' target='_blank'>Download PDF</a>"
 collection: teaching
 date: 2025-04-21
-permalink: /teaching/sample-syllabus/
+permalink: /teaching/teaching_2s/
 ---
 
 > *"Education is the most powerful weapon which you can use to change the world."*

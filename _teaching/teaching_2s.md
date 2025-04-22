@@ -7,8 +7,11 @@ date: 2025-04-21
 permalink: /teaching/teaching_2s/
 ---
 
-> **"Education is the most powerful weapon which you can use to change the world."**
-> - *<span style="float:right;">Nelson Mandela</span></p>*
+<blockquote>
+<p><strong>"Education is the most powerful weapon which you can use to change the world."</strong></p>
+<p style="text-align: right;"><em>— Nelson Mandela</em></p>
+</blockquote>
+
                                                              
 My goal is to help students discover their personal **"why"** for studying comparative politics — a motivation that extends beyond grades, requirements, or course credits. Whether it is a drive to better understand global events, prepare for a career in public service or international relations, or simply to cultivate critical thinking skills for engaged citizenship, I aim to encourage students to view their education as an opportunity for personal and intellectual growth, not just a series of tasks to complete.
 

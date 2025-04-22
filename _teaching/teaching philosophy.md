@@ -6,8 +6,6 @@ collection: teaching
 categories: ["teaching"]
 date: 2025-04-21
  show_date: false
-
- 
 ---
 
 My teaching philosophy can be found below the picture and can be downloaded. Thank you!

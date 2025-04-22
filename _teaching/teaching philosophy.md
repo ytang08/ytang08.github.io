@@ -5,8 +5,9 @@ excerpt: "This is my teaching philosophy. A PDF version can be found below the p
 collection: teaching
 categories: ["teaching"]
 date: 2025-04-21
-header:
-  show_date: false
+ show_date: false
+
+ 
 ---
 
 My teaching philosophy can be found below the picture and can be downloaded. Thank you!

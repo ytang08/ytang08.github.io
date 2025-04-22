@@ -7,12 +7,12 @@ date: 2025-04-21
 permalink: /teaching/teaching_2s/
 ---
 
-> *"Education is the most powerful weapon which you can use to change the world."*
-> - Nelson Mandela
+> **"Education is the most powerful weapon which you can use to change the world."**
+> - *<span style="float:right;">Nelson Mandela</span></p>*
                                                              
-My goal is to help students discover their personal "why" for studying comparative politics — a motivation that extends beyond grades, requirements, or course credits. Whether it is a drive to better understand global events, prepare for a career in public service or international relations, or simply to cultivate critical thinking skills for engaged citizenship, I aim to encourage students to view their education as an opportunity for personal and intellectual growth, not just a series of tasks to complete.
+My goal is to help students discover their personal **"why"** for studying comparative politics — a motivation that extends beyond grades, requirements, or course credits. Whether it is a drive to better understand global events, prepare for a career in public service or international relations, or simply to cultivate critical thinking skills for engaged citizenship, I aim to encourage students to view their education as an opportunity for personal and intellectual growth, not just a series of tasks to complete.
 
-This philosophy is reflected in my sample syllabus, where I first ask students to articulate their individual learning goals at the start of the semester, such as developing skills in policy analysis, comparative case writing, or theoretical application. I then provide flexible options for major assignments, allowing students to choose between a policy memo, a country case study, or a theoretical essay depending on their interests and career aspirations. Additionally, during each class session, I incorporate active learning exercises that invite students to apply political theories to real-world examples, engage in debates about democratic backsliding, simulate decision-making in authoritarian regimes, and critically evaluate political data from global sources. Through these practices, I seek to create a classroom where education is personalized, purposeful, and transformative.
+This philosophy is reflected in my sample syllabus, where I first ask students to articulate their individual learning goals at the start of the semester, such as developing skills in policy analysis, comparative case writing, or theoretical application. I then provide flexible options for major assignments, allowing students to choose between a policy memo, a country case study, or a theoretical essay depending on their interests and career aspirations. Additionally, during each class session, I incorporate active learning exercises that invite students to apply political theories to real-world examples, engage in debates about democratic backsliding, simulate decision-making in authoritarian regimes, and critically evaluate political data from global sources. Through these practices, I seek to create a classroom where education is **personalized**, **purposeful**, and **transformative**.
 
 
 # POL/LAS 204 – Comparative Politics in the Age of Globalization

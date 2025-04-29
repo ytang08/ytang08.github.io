@@ -1,6 +1,6 @@
 ---
 title: "Student Evaluation"
-excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record).<br/><img src='/images/student_evaluation.png'>"
+excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record).<br/><img src='/images/student_evaluation_s.png'>"
 collection: portfolio
 ---
 

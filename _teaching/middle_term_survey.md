@@ -1,6 +1,6 @@
 ---
 title: "Middle Term Survey"
-excerpt: "This is a midterm survey that I plan to use for the class that I will be teaching in Fall 2025.<br/><img src='/images/midterm_survey.png'>"
+excerpt: "This is a midterm survey that I plan to use for the class that I will be teaching in Fall 2025.<br/><img src='/images/midterm_survey_s.png'>"
 collection: teaching
 ---
 

@@ -4,7 +4,7 @@ excerpt: "These are some of the student evaluations from the classes that I had 
 collection: portfolio
 ---
 
-This page summarizes the student evaluations I received for my courses during the Fall 2024 semester.
+This page summarizes the student evaluations I received for my courses (*POL202*)(**Introduction to International Politics**) during the Fall 2024 semester.
 
 The full evaluation report includes detailed visualizations of student feedback and the survey response rate.
 

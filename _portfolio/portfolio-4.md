@@ -12,4 +12,8 @@ Compared to the previous semester (Summer 2024), the student response rate more 
 
 ---
 
+You can view or download the full report here:
 
+👉 [**Download Student Evaluation Report (PDF)**](<a href='/assets/pdf/student_eva_2024Fall.pdf' target='_blank'>Download PDF</a>)
+
+---

@@ -8,6 +8,8 @@ This page summarizes the student evaluations I received for my courses (*POL202*
 
 The full evaluation report includes detailed visualizations of student feedback and the survey response rate.
 
+Compared to the previous semester (Summer 2024), the student response rate more than **doubled** (increased from 15.2% to 38.6%).
+
 ---
 
 

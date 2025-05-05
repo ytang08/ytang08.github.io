@@ -1,6 +1,6 @@
 ---
 title: "Student Evaluation"
-excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record).<br/><img src='/images/student_evaluation_s.png'>"
+excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record).<br/><img src='/images/student_evaluation_s.png'><br/> <a href='/assets/pdf/student_eva_Fall2024.pdf' target='_blank'>Download PDF</a>"
 collection: portfolio
 ---
 
@@ -10,10 +10,4 @@ The full evaluation report includes detailed visualizations of student feedback 
 
 ---
 
-## 📊 View the Full Evaluation Report
 
-You can view or download the full report here:
-
-👉 [**Download Student Evaluation Report (PDF)**](/assets/pdf/student_eva_Fall2024.pdf){:target="_blank"}
-
----

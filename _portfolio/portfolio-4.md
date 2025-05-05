@@ -1,6 +1,6 @@
 ---
 title: "Student Evaluation"
-excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record).<br/><img src='/images/student_evaluation_s.png'><br/> <a href='/assets/pdf/student_eva_2024Fall.pdf' target='_blank'>Download PDF</a>"
+excerpt: "These are some of the student evaluations from the classes that I had formerly taught (Teaching of Record). Compared to the previous semester (Summer 2024), the student response rate more than **doubled** (increased from 15.2% to 38.6%).<br/><img src='/images/student_evaluation_s.png'><br/> <a href='/assets/pdf/student_eva_2024Fall.pdf' target='_blank'>Download PDF</a>"
 collection: portfolio
 ---
 

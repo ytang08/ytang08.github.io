@@ -10,6 +10,6 @@ I believe that education should be *accessible* to all and that true learning ex
 
 You can view or download the full teaching philosophy here:
 
-👉 [**Download My Teaching Philosophy (PDF)**]( <a href='/assets/pdf/Teaching Philosophy(Yongfeng Tang)V3.pdf' target='_blank'>Download PDF</a>)
+👉 [**Download My Teaching Philosophy (PDF)**](<a href='/assets/pdf/Teaching Philosophy(Yongfeng Tang)V3.pdf' target='_blank'>Download PDF</a>)
 
 ---

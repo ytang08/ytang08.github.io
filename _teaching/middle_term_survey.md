@@ -7,6 +7,7 @@ collection: teaching
 To promote reflective and responsive teaching, I will administer a mid-term feedback survey to students in my courses during the Summer and Fall semesters of 2025. The purpose of this survey is to *assess how well students are engaging with the material*, *evaluate the clarity of my instruction*, and *identify areas for improvement*. The insights gathered will help me adapt my teaching strategies in real time and demonstrate my commitment to **student-centered learning** and **continuous improvement**.
 
 ---
+You can view or download the Mid-term Survey Questionnaire here:
 
 👉 [**Download the Mid-term Survey Questionnaire (PDF)**](<a href='/assets/pdf/Midterm_survey.pdf' target='_blank'>Download PDF</a>)
 

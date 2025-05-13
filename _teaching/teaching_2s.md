@@ -84,7 +84,7 @@ The course will be in-person and lecture-based (delivered on Mondays and Wednesd
 ## Section 4: Grading Policy/Extra Credit/Class Behavior Polices
 
 
-### ** 4.1 Grading Policy**
+### **4.1 Grading Policy**
 University policy regarding grades and grading systems is available at:  
 [University Grading Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm)
 
@@ -99,11 +99,11 @@ Requests for incompletes (I) and withdrawal (W) must be made in accordance with 
 [Incomplete Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm#I)  
 [Withdrawal Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm#W)
 
-### ** 4.2 Honors Credit**
-Students wishing to contract this course for Honors Credit should email me to set up an appointment to discuss the terms of the contract and to sign the Honors Course Contract Request Form.  The form is available at: (https://frankehonors.arizona.edu/why-honors/academic-opportunities).
+### **4.2 Honors Credit**
+Students wishing to contract this course for Honors Credit should email me to set up an appointment to discuss the terms of the contract and to sign the Honors Course Contract Request Form.  The form is available at[here](https://frankehonors.arizona.edu/why-honors/academic-opportunities)
 
 
-### ** 4.3 Late Work Policy**
+### **4.3 Late Work Policy**
 Timely submission of assignments is important, but I understand that life can be unpredictable. If you anticipate needing extra time due to illness, personal challenges, or unforeseen circumstances, please reach out to me as soon as possible. Extensions may be granted on a case-by-case basis. While documentation is appreciated, it is not always required. My goal is to support your learning while maintaining fairness for all students.
 
 

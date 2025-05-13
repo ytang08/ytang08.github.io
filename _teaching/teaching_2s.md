@@ -21,10 +21,27 @@ This philosophy is reflected in my sample syllabus, where I first ask students t
 
 # POL/LAS 204 – Comparative Politics in the Age of Globalization
 
-## Course Title and Number
+##**Section 1: About This Course**
+
+
+### 1.1 Course Title and Number
 **POL/LAS 204 – Comparative Politics in the Age of Globalization**
 
-## Description of Course
+### 1.2 Welcome Statement
+Hello and welcome! My name is Yongfeng Tang, and I’m excited to be your instructor for Comparative Politics in the Age of Globalization. This course is a journey into how different political systems work—and why they matter. I look forward to learning with you, supporting your growth, and helping you discover your own voice as a thinker and global citizen. Let’s have a great semester together!
+
+### **1.3 Instructor Information/Office Hours**
+**Yongfeng Tang**  
+PhD Candidate  
+Social Sciences Building 120  
+ytang08@arizona.edu  
+**Office Hours**: Wednesday 10-11 am
+
+### **1.4 Teaching Philosophy**
+In this course, my teaching philosophy continues to evolve with each student I meet. It is grounded in a commitment to support, challenge, and inspire you as you explore the complexities of political systems around the world. My goal is to help you build on your strengths, confront difficult questions with confidence, and discover your unique voice as a critical thinker and engaged global citizen.
+
+
+### **1.5 Description of Course**
 This course will explore the field of comparative politics, which involves the analysis and comparison of the causes and consequences of different political systems across the world. The course will start by exploring how political scientists use the scientific method to understand political phenomena.
 
 Next, we will introduce different theories that explain the emergence of modern states.
@@ -33,7 +50,9 @@ Then, we will apply these tools to explain the emergence of democracy and autocr
 
 After completing the course, students will know the basics of different government institutions and have a basic understanding of the consequences of these different institutional forms. In doing so, we will explore several cases in depth from all regions of the world.
 
-## Course Objectives
+## **Section 2: Course Objectives/Learning Outcomes**
+
+### ** 2.1 Course Objectives**[^1]
 This course will introduce students to the field of comparative politics, which involves the study of governments outside the US. We will learn how to research and theorize about political systems across the world. In doing so, we will examine political institutions that are common to all forms of government and understand distinctions between different types of political systems.
 
 We will also gain familiarity with the diversity of political organizations and institutions across the world, including democracies and dictatorships.
@@ -42,34 +61,35 @@ Finally, in analyzing these systems, we will learn how to use quantitative measu
 
 Throughout this course, students will be introduced to several commonly used datasets used by political scientists to measure democracy and autocracy and the strengths and weaknesses of those datasets.
 
-## Expected Learning Outcomes
-- Identify the approaches and methodologies of comparative political scientists, using evidence to critically analyze questions and arguments about the emergence of democracy and autocracy.
-- Describe the political systems in several countries, understanding both the roots of the emergence of those systems as well as the consequences of those systems.
-- Demonstrate competency in working with numerical information by critically analyzing quantitative information, generating ideas that are supported by quantitative evidence, assessing the relevance of data and its associated implications in various contexts, and communicating those ideas in various formats (graphs, data tables, equations, oral presentations, or written reflections).
-- Become familiar with the research questions, dependent variables, and independent variables used by political scientists in their research. Students will create their own research question and design a proper method to test that question quantitatively for their research paper.
+### ** 2.2 Expected Learning Outcomes**
+At the end of the semester:
+-Students will learn how comparative political scientists study politics by examining different approaches and methods. They will critically evaluate arguments about democracy and autocracy and understand the causes and consequences of these systems.
+-Students will study the political systems of several countries, with a focus on one non-U.S. country for a research paper. They will develop expertise in that case by exploring its political history and outcomes.
+-Students will also build skills in working with data—interpreting graphs, analyzing tables, and using quantitative evidence to support their arguments.
+-Finally, students will learn how to ask strong research questions, identify independent and dependent variables, and engage in the peer review process to better understand how political science research is developed and evaluated.
 
-## Course Format and Teaching Methods
-The course will be in-person lecture-based (Monday and Wednesday each week). It will include several discussion posts (five in total) through D2L, as well as a semester-long research assignment simulating the processes political scientists use to produce research.
+## **Section 3: Course Formats and Logistics-related Issues**
 
-### Locations and Times
-**Monday and Wednesday**  
-10:30-11:45 am at **xxxxx**
 
-## Instructor Information
-**Yongfeng Tang**  
-PhD Candidate  
-Social Sciences Building 120  
-ytang08@arizona.edu  
-Office Hours: Wednesday 10-11 am
+### **3.1 Course Format and Teaching Methods**
+The course will be in-person and lecture-based (delivered on Mondays and Wednesdays), but it will also emphasize *active student participation*. In addition to five discussion posts submitted through D2L, students will regularly engage in small group activities, case-based discussions, and interactive polling during class. A major component of the course is a semester-long research assignment designed to simulate the real-world research process of political scientists, encouraging you to ask critical questions, analyze evidence, and present your findings in both written and oral formats.
 
-## Required Textbook
+
+### **3.2 Locations and Times**
+**Monday and Wednesday**  10:30-11:45 am at Communication Building #212
+
+
+### **3.3 Required Textbook**
 - **Clark, William Roberts, Matt Golder, and Sona Nadenichek Golder (CGG).** _Principles of Comparative Politics: Third Edition. 2018._
 
-## Grading Policy
+## Section 4: Grading Policy/Extra Credit/Class Behavior Polices
+
+
+### ** 4.1 Grading Policy**
 University policy regarding grades and grading systems is available at:  
 [University Grading Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm)
 
-### Grade Distribution for this Course:
+ Grade Distribution for this Course:
 - A: Excellent
 - B: Good
 - C: Satisfactory
@@ -80,11 +100,13 @@ Requests for incompletes (I) and withdrawal (W) must be made in accordance with 
 [Incomplete Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm#I)  
 [Withdrawal Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm#W)
 
-### Honors Credit
-- To be added
+### ** 4.2 Honors Credit**
+Students wishing to contract this course for Honors Credit should email me to set up an appointment to discuss the terms of the contract and to sign the Honors Course Contract Request Form.  The form is available at: (https://frankehonors.arizona.edu/why-honors/academic-opportunities).
 
-### Late Work Policy
-- To be added
+
+### ** 4.3 Late Work Policy**
+Timely submission of assignments is important, but I understand that life can be unpredictable. If you anticipate needing extra time due to illness, personal challenges, or unforeseen circumstances, please reach out to me as soon as possible. Extensions may be granted on a case-by-case basis. While documentation is appreciated, it is not always required. My goal is to support your learning while maintaining fairness for all students.
+
 
 ### Attendance Policy
 - To be added
@@ -179,3 +201,11 @@ This assignment is due on the **First session of the Fifteenth Week**. It counts
 ## Course Schedule
 
 - To be added
+
+
+
+
+
+
+[^1] This section differs from the next section (expected learning outcomes), which emphasizes how learning will take place in this course. Thanks to Professor Gemein’s suggestion.
+

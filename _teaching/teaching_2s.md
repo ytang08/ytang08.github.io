@@ -51,7 +51,7 @@ After completing the course, students will know the basics of different governme
 
 ## **Section 2: Course Objectives/Learning Outcomes**
 
-### ** 2.1 Course Objectives**[^1]
+### **2.1 Course Objectives[^1]**
 This course will introduce students to the field of comparative politics, which involves the study of governments outside the US. We will learn how to research and theorize about political systems across the world. In doing so, we will examine political institutions that are common to all forms of government and understand distinctions between different types of political systems.
 
 We will also gain familiarity with the diversity of political organizations and institutions across the world, including democracies and dictatorships.
@@ -60,7 +60,7 @@ Finally, in analyzing these systems, we will learn how to use quantitative measu
 
 Throughout this course, students will be introduced to several commonly used datasets used by political scientists to measure democracy and autocracy and the strengths and weaknesses of those datasets.
 
-### ** 2.2 Expected Learning Outcomes**
+### **2.2 Expected Learning Outcomes**
 At the end of the semester:
 -Students will learn how comparative political scientists study politics by examining different approaches and methods. They will critically evaluate arguments about democracy and autocracy and understand the causes and consequences of these systems.
 -Students will study the political systems of several countries, with a focus on one non-U.S. country for a research paper. They will develop expertise in that case by exploring its political history and outcomes.

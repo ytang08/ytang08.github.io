@@ -1,7 +1,6 @@
 ---
 title: "Sample Syllabus"
-excerpt: "This is a sample syllabus that I can potentially teach in the future at the undergraduate level. The course title is *< Comparative Politics in the Age of Globalization>*. This course offers a foundational exploration of democracy and autocracy—the two dominant regime types shaping global politics today. Students will examine **how political systems emerge**, **why some countries become democratic while others remain authoritarian**, and what factors contribute to their stability or decline. Through comparative analysis, the course introduces students to key concepts and methods used by political scientists to study regime types, institutions, political behavior, and governance. Special attention is given to understanding the causes and consequences of democratic transitions, authoritarian resilience, and hybrid regimes. Students will engage in *lectures*, *discussions*, and *in-class activities* that encourage critical thinking and comparative reasoning. A central feature of the course is a scaffolded, semester-long research project in which students select a country case (outside the U.S.) and investigate a major question related to democracy or autocracy. By the end of the course, students will have developed the tools to analyze political systems, assess evidence, and form well-supported arguments about the dynamics of regime change and persistence. <br> A PDF version can be found below the picture.
- <br/><img src='/images/introcp_s.png'> <br/>
+excerpt: "This is a sample syllabus that I can potentially teach in the future at the undergraduate level. The course title is *< Comparative Politics in the Age of Globalization>*. This course offers a foundational exploration of democracy and autocracy—the two dominant regime types shaping global politics today. Students will examine **how political systems emerge**, **why some countries become democratic while others remain authoritarian**, and what factors contribute to their stability or decline. Through comparative analysis, the course introduces students to key concepts and methods used by political scientists to study regime types, institutions, political behavior, and governance. Special attention is given to understanding the causes and consequences of democratic transitions, authoritarian resilience, and hybrid regimes. Students will engage in *lectures*, *discussions*, and *in-class activities* that encourage critical thinking and comparative reasoning. A central feature of the course is a scaffolded, semester-long research project in which students select a country case (outside the U.S.) and investigate a major question related to democracy or autocracy. By the end of the course, students will have developed the tools to analyze political systems, assess evidence, and form well-supported arguments about the dynamics of regime change and persistence. <br> A PDF version can be found below the picture. <br/><img src='/images/introcp_s.png'> <br/>
   <a href='/assets/pdf/POL204_Syllabus_May12_YT.pdf' target='_blank'>Download PDF</a>"
 collection: teaching
 date: 2025-04-21
@@ -21,7 +20,7 @@ This philosophy is reflected in my sample syllabus, where I first ask students t
 
 # POL/LAS 204 – Comparative Politics in the Age of Globalization
 
-##**Section 1: About This Course**
+## **Section 1: About This Course**
 
 
 ### 1.1 Course Title and Number

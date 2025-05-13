@@ -125,11 +125,11 @@ The Arizona Board of Regents’ Student Code of Conduct, ABOR Policy 5-308, proh
 In this course, any and all uses of generative artificial intelligence (AI)/large language model tools such as ChatGPT, Dall-e, Google Bard, Microsoft Bing, etc., will be considered a violation of the Code of Academic Integrity, specifically the prohibition against submitting work that is not your own. This applies to all assessments in the course, including case studies, written assignments, discussions, quizzes, exams, and problem sets. This course policy is driven by the learning goals and desired learning outcomes for the course described at the beginning of this syllabus. 
 
 The following actions are prohibited: 
-•	entering all or any part of an assignment statement or test questions as part of a prompt to a large language model AI tool; 
-•	incorporating any part of an AI-written response in an assignment; 
-•	using AI to summarize or contextualize reading assignments or source materials; 
-•	and submitting your own work for this class to a large language model AI tool for iteration or improvement.
-             For more guidance and resources on how to use Generative Artificial Intelligence can be found at the UA Library [here](https://libguides.library.arizona.edu/students-chatgpt/use).
+•<br>	entering all or any part of an assignment statement or test questions as part of a prompt to a large language model AI tool; 
+•<br>incorporating any part of an AI-written response in an assignment; 
+•<br>	using AI to summarize or contextualize reading assignments or source materials; 
+•<br>and submitting your own work for this class to a large language model AI tool for iteration or improvement.
+<br> For more guidance and resources on how to use Generative Artificial Intelligence can be found at the UA Library [here](https://libguides.library.arizona.edu/students-chatgpt/use).
 
 ### **4.7 Accessibility and Accommodations**
 It is the University’s goal that learning experiences be as accessible as possible.  If you anticipate or experience physical or academic barriers based on disability, please let me know immediately so that we can discuss options.  You are also welcome to contact Disability Resources (520-621-3268) to establish reasonable accommodations.  For additional information on Disability Resources and reasonable accommodations, please visit the [DRC website](https://drc.arizona.edu/).
@@ -229,49 +229,49 @@ This assignment is due on the **First session of the Fifteenth Week**. It counts
 ### **6.1 Course Schedule**
 
 •	Jan 16 – Introduction and What is Comparative Politics?
-           Read: CGG Ch 1
+           <br>Read: CGG Ch 1
 
 •	Jan 21 - How to Study Politics Scientifically 
-           Read: CGG CH 2
+          <br> Read: CGG CH 2
 
 •	Jan 23 – Questions and Cases in Comparative Politics
 
 •	Jan 28– Introduction to Political Science Datasets
 
 •	Jan 30 – States, governments and the origins of states 
-          Read: CGG Ch 4
-          **Discussion post 1 is due in D2L.**
-          **The proposal assignment is due on Jan 31.**
+          <br>Read: CGG Ch 4
+         <br> **Discussion post 1 is due in D2L.**
+         <br> **The proposal assignment is due on Jan 31.**
 
 •	Feb 4 – States, governments and the origins of states 
-            Read: CGG Ch 4
+           <br> Read: CGG Ch 4
 
 •	Feb 6 – Democracy and Autocracy
-           Read: CGG Ch 5
+          <br> Read: CGG Ch 5
 
 •	Feb 11 – Democracy and Autocracy
-            Read: CGG Ch 5
+          <br>  Read: CGG Ch 5
 
 •	Feb 13 – Determinants of Democracy and Dictatorship
-          Read: CGG Ch 6
-          **Discussion post 2 is due in D2L.**
-          **The annotated bibliography assignment is due on Feb 14.**
+         <br> Read: CGG Ch 6
+         <br> **Discussion post 2 is due in D2L.**
+         <br> **The annotated bibliography assignment is due on Feb 14.**
 
 •	Feb 18 – Determinants of Democracy and Dictatorship 
-           Read: CGG Ch 7
+          <br> Read: CGG Ch 7
 
 •	Feb 20 –Democratic Transitions
-          Read: CGG Ch 8
+          <br>Read: CGG Ch 8
 
 •	Feb 25 – Democratic Transitions
-            Read: CGG Ch 8
+            <br>Read: CGG Ch 8
 
 •	Feb 25 – Democratic Transitions
-            Read: CGG Ch 8
-            **Discussion post 3 is due in D2L.**
+            <br>Read: CGG Ch 8
+           <br> **Discussion post 3 is due in D2L.**
 
 •	Feb 27 – Democracy or Dictatorship, does it make a difference? 
-           Read: CGG Ch 9
+          <br> Read: CGG Ch 9
 
 •	Mar 4 Exam Review
 
@@ -280,50 +280,50 @@ This assignment is due on the **First session of the Fifteenth Week**. It counts
 •	March 10-14 Spring Break
 
 •	March 18 – Democracy or Dictatorship, does it make a difference? [China vs. India] 
-            Read: CGG Ch 9
+            <br>Read: CGG Ch 9
 
 •	March 20 –Varieties of Autocracy
-          Read: CGG Ch 10
-          **Discussion post 4 is due in D2L.**
-          **The draft paper assignment is due on March 20.**
+          <br>Read: CGG Ch 10
+         <br> **Discussion post 4 is due in D2L.**
+          <br>**The draft paper assignment is due on March 20.**
 
 •	March 25 – Varieties of Autocracy 
-            Read: CGG Ch 10
-            **The peer review assignment is due on March 25.**
+           <br> Read: CGG Ch 10
+          <br>  **The peer review assignment is due on March 25.**
 
 •	March 27 – Democracies – Presidential vs. Parliamentary 
-            Read: CGG Ch 12
+            <br>Read: CGG Ch 12
 
 •	April 1 – Democracies – Presidential vs. Parliamentary 
-            Read: CGG Ch 12
+            <br>Read: CGG Ch 12
 •	April 3 – Democracies – Elections and Electoral Systems 
-             Read: CGG Ch 13
-            **Discussion post 5 is due in D2L.**
+           <br>  Read: CGG Ch 13
+            <br>**Discussion post 5 is due in D2L.**
 
 •	April 8 – Democracies – Elections and Electoral Systems 
-             Read: CGG Ch 13
+             <br>Read: CGG Ch 13
 
 •	April 10 – Democracies – Elections and Electoral Systems 
-            Read: CGG Ch 13
+           <br> Read: CGG Ch 13
 
 •	April 15– Social Cleavages and Party Systems 
-             Read: CGG Ch 14
+             <br>Read: CGG Ch 14
 
 •	April 17 – Social Cleavages and Party Systems
-              Read: CGG Ch 14
+             <br> Read: CGG Ch 14
 
 •	April 22 – Social Cleavages and Party Systems 
-               Read: CGG Ch 14
+              <br> Read: CGG Ch 14
 
 •	April 24 – Consequences of Democratic Institutions 
-              Read: CGG Ch 16
+             <br> Read: CGG Ch 16
 
 •	April 29 – Consequences of Democratic Institutions 
-              Read: CGG Ch 16
-              **The final paper assignment is due on April 29.**
+             <br> Read: CGG Ch 16
+            <br>  **The final paper assignment is due on April 29.**
 
 •	May 1 – Consequences of Democratic Institutions 
-              Read: CGG Ch 16
+             <br> Read: CGG Ch 16
 
 •	May 6 – Exam Review
 

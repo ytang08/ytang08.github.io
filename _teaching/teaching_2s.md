@@ -81,7 +81,7 @@ The course will be in-person and lecture-based (delivered on Mondays and Wednesd
 ### **3.3 Required Textbook**
 - **Clark, William Roberts, Matt Golder, and Sona Nadenichek Golder (CGG).** _Principles of Comparative Politics: Third Edition. 2018._
 
-## Section 4: Grading Policy/Extra Credit/Class Behavior Polices
+## **Section 4: Grading Policy/Extra Credit/Class Behavior Polices**
 
 
 ### **4.1 Grading Policy**
@@ -100,29 +100,80 @@ Requests for incompletes (I) and withdrawal (W) must be made in accordance with 
 [Withdrawal Policy](http://catalog.arizona.edu/2014-15/policies/grade.htm#W)
 
 ### **4.2 Honors Credit**
-Students wishing to contract this course for Honors Credit should email me to set up an appointment to discuss the terms of the contract and to sign the Honors Course Contract Request Form.  The form is available at[here](https://frankehonors.arizona.edu/why-honors/academic-opportunities)
+Students wishing to contract this course for Honors Credit should email me to set up an appointment to discuss the terms of the contract and to sign the Honors Course Contract Request Form.  The form is available at:[here](https://frankehonors.arizona.edu/why-honors/academic-opportunities)
 
 
 ### **4.3 Late Work Policy**
 Timely submission of assignments is important, but I understand that life can be unpredictable. If you anticipate needing extra time due to illness, personal challenges, or unforeseen circumstances, please reach out to me as soon as possible. Extensions may be granted on a case-by-case basis. While documentation is appreciated, it is not always required. My goal is to support your learning while maintaining fairness for all students.
 
 
-### Attendance Policy
-- To be added
+### **4.4 Attendance Policy**
+The UA’s policy concerning Class Attendance and Administrative Drops is available at: [here](https://catalog.arizona.edu/2014-15/policies/classatten.htm).
 
-## Assignment Format
+The UA policy regarding absences on and accommodation of religious holidays is available at: [here](https://deanofstudents.arizona.edu/policies-and-codes/accommodation-religious-observance-and-practice).
 
-### 15% Discussion Posts
+Absences pre-approved by the UA Dean of Students (or Dean designee) will be honored.  See: [here](http://uhap.web.arizona.edu/chapter_7#7.04.02).
+
+Participating in the course and attending lectures and other course events are vital to the learning process.  As such, attendance is required at all lectures and discussion section meetings.  If you need to miss class due to illness, a personal emergency, or other important reasons, please let me know as soon as you’re able. While documentation (e.g., from a healthcare provider or other professional) can be helpful, it is not always required. I trust students to make responsible decisions and will work with you to help you stay on track with the course material.
+
+### **4.5 Classroom Behavior**
+To foster a positive learning environment, students may not text, chat, make phone calls, play games, read the newspaper, or surf the web during lectures and discussions.  Students are asked to refrain from disruptive conversations with people sitting around them during lectures.  Students observed engaging in disruptive activity will be asked to cease this behavior.  Students who continue to disrupt the class will be asked to leave the lecture or discussion and may be reported to the Dean of Students.
+
+The Arizona Board of Regents’ Student Code of Conduct, ABOR Policy 5-308, prohibits threats of physical harm to any member of the University community, including oneself.  See: [here](https://policy.arizona.edu/threatening-behavior-students).
+
+### **4.6 AI Policies for this Course**
+In this course, any and all uses of generative artificial intelligence (AI)/large language model tools such as ChatGPT, Dall-e, Google Bard, Microsoft Bing, etc., will be considered a violation of the Code of Academic Integrity, specifically the prohibition against submitting work that is not your own. This applies to all assessments in the course, including case studies, written assignments, discussions, quizzes, exams, and problem sets. This course policy is driven by the learning goals and desired learning outcomes for the course described at the beginning of this syllabus. 
+
+The following actions are prohibited: 
+•	entering all or any part of an assignment statement or test questions as part of a prompt to a large language model AI tool; 
+•	incorporating any part of an AI-written response in an assignment; 
+•	using AI to summarize or contextualize reading assignments or source materials; 
+•	and submitting your own work for this class to a large language model AI tool for iteration or improvement.
+             For more guidance and resources on how to use Generative Artificial Intelligence can be found at the UA Library [here](https://libguides.library.arizona.edu/students-chatgpt/use).
+
+### **4.7 Accessibility and Accommodations**
+It is the University’s goal that learning experiences be as accessible as possible.  If you anticipate or experience physical or academic barriers based on disability, please let me know immediately so that we can discuss options.  You are also welcome to contact Disability Resources (520-621-3268) to establish reasonable accommodations.  For additional information on Disability Resources and reasonable accommodations, please visit the [DRC website](https://drc.arizona.edu/).
+
+If you have reasonable accommodations, please plan to meet with me by appointment or during office hours to discuss accommodations and how my course requirements and activities may impact your ability to fully participate.
+
+Please be aware that the accessible table and chairs in this room should remain available for students who find that standard classroom seating is not usable.
+
+### **4.8 Student Code of Academic Integrity**
+Students are encouraged to share intellectual views and discuss freely the principles and applications of course materials. However, graded work/exercises must be the product of independent effort unless otherwise instructed. Students are expected to adhere to the UA Code of Academic Integrity as described in the UA General Catalog. See: [Code of Academic Integrity and Academic Integrity policy](https://deanofstudents.arizona.edu/codeofacademicintegrity).
+
+The University Libraries have some excellent tips for avoiding plagiarism available at:  [Plagiarism](https://lib.arizona.edu/help/tutorials/plagiarism/index.html).
+
+Selling class notes and/or other course materials to other students or to a third party for resale is not permitted without the instructor’s express written consent.  Violations of this and other course rules are subject to the Code of Academic Integrity and may result in course sanctions.  Additionally, students who use D2L or UA email to sell or buy these copyrighted materials are subject to Code of Conduct Violations for misuse of student email addresses. This conduct may also constitute copyright infringement.
+
+### **4.9 Confidentiality of Student Records**
+The FERPA policy is available at: [FERPA policy](https://www.registrar.arizona.edu/ferpa/default.htm)
+
+### **4.10 Subject to Change Statement**
+Information contained in the course syllabus, other than the grade and absence policy, may be subject to change with advance notice, as deemed appropriate by the instructor.
+
+### **4.11 Additional Resources for Students**
+UA Non-discrimination and Anti-harassment policies are available at: [Nondiscrimination policy](https://policy.arizona.edu/sites/default/files/Nondiscrimination.pdf).
+UA Academic policies and procedures are available at:
+[Academic Policies](https://catalog.arizona.edu/404)
+Student Assistance and Advocacy information is available at: [Student Assistance](https://deanofstudents.arizona.edu/student-assistance/students/student-assistance)
+
+## **Section 5: Assignment Related Issues**
+
+### **5.1 Assignment Format**
+
+ 15% Discussion Posts
 Each week will feature a quiz where the student will be asked to summarize the argument of one of the readings (five discussion posts in total, each counts as 3% of the final grade).
 
-### 25% Mid-Term (closed exam)
+ 25% Mid-Term (closed exam)
 
-### 25% Final Exam (closed exam)
+ 25% Final Exam (closed exam)
 
-### 35% Research Paper (see below)
+ 35% Research Paper (detail can be found below)
 
-### Research Paper Project:
-#### 1. Paper Topic Assignment
+### **5.2 Research Paper Project:**
+#### 5.2.1 Paper Topic Assignment
+This course includes a **scaffolded** research project that unfolds over the duration of the semester. Rather than being completed all at once, the project is broken into manageable stages—each designed to build your skills step by step. From forming a research question and reviewing the literature to collecting evidence and presenting your findings, each component will help prepare you for the final paper. This structure not only supports your learning but also mirrors the process real political scientists go through when conducting research.
+
 Each student selects a research topic related to comparative politics. Suggested themes include:
 - Democratic transitions and consolidation
 - Political institutions (e.g., presidentialism vs. parliamentarism)
@@ -132,25 +183,25 @@ Each student selects a research topic related to comparative politics. Suggested
 - Democratic Backsliding and its causes
 - Or other topics approved by the instructor.
 
-Submit a one-paragraph proposal, including:
+#### 5.2.2 Submit a one-paragraph proposal, including:
 - A research question.
 - A brief hypothesis or argument.
 - A justification for the topic's relevance.
 
 This assignment is due on **Wednesday midnight (11:59 pm)** of the Third week of the semester. It counts as 10% of the Research Paper Project or 3.5% of the final grade.
 
-#### 2. Annotated Bibliography Assignment
+#### 5.2.3 Annotated Bibliography Assignment
 Compile an annotated bibliography with at least 5 scholarly sources. Each entry should include:
 - A summary of the source.
 - Its relevance to your research question.
-- How it informs your analysis.
+- How does it inform your analysis?
 
 This assignment is due on **Wednesday midnight (11:59 pm)** of the Fifth week of the semester. It counts as 10% of the Research Paper Project or 3.5% of the final grade.
 
-#### 3. Draft Paper Assignment
+#### 5.2.4 Draft Paper Assignment
 Each student brings a draft of their paper (minimum 5 pages) to class (in the second session of the Eighth Week of the semester). The draft paper is due before the second session of the Eighth week of this semester. It counts as 10% of the Research Paper Project and 3.5% of the final grade.
 
-#### 4. Presentation and Peer-review Project
+#### 5.2.5 Presentation and Peer-review Project
 During the 9th week’s first session:  
 Each student presents their argument in 3-5 minutes in front of the class.  
 Peers provide feedback based on a rubric focusing on:
@@ -161,7 +212,7 @@ Peers provide feedback based on a rubric focusing on:
 
 The presentation and peer-review feedback each count as 7.5% of the Research Paper Project and 2.625% of the final grade.
 
-#### 5. Final Research Paper Project
+#### 5.2.6 Final Research Paper Project
 Submit a 10–12 page paper that includes:
 - **Introduction**: A clear research question and its significance.
 - **Literature Review**: Discuss existing research relevant to the question.
@@ -173,33 +224,112 @@ Submit a 10–12 page paper that includes:
 
 This assignment is due on the **First session of the Fifteenth Week**. It counts as 55% of the Research Paper Project and 19.25% of the final grade.
 
-## Classroom Behavior
+## **Section 6: Course Schedule**
 
-- To be added
+### **6.1 Course Schedule**
 
-## Accessibility and Accommodations
+•	Jan 16 – Introduction and What is Comparative Politics?
+           Read: CGG Ch 1
 
-- To be added
+•	Jan 21 - How to Study Politics Scientifically 
+           Read: CGG CH 2
 
-## Student Code of Academic Integrity
+•	Jan 23 – Questions and Cases in Comparative Politics
 
-- To be added
+•	Jan 28– Introduction to Political Science Datasets
 
-## Additional Resources for Students
+•	Jan 30 – States, governments and the origins of states 
+          Read: CGG Ch 4
+          **Discussion post 1 is due in D2L.**
+          **The proposal assignment is due on Jan 31.**
 
-- To be added
+•	Feb 4 – States, governments and the origins of states 
+            Read: CGG Ch 4
 
-## Confidentiality of Student Records
+•	Feb 6 – Democracy and Autocracy
+           Read: CGG Ch 5
 
-- To be added
+•	Feb 11 – Democracy and Autocracy
+            Read: CGG Ch 5
 
-## Subject to Change Statement
+•	Feb 13 – Determinants of Democracy and Dictatorship
+          Read: CGG Ch 6
+          **Discussion post 2 is due in D2L.**
+          **The annotated bibliography assignment is due on Feb 14.**
 
-- To be added
+•	Feb 18 – Determinants of Democracy and Dictatorship 
+           Read: CGG Ch 7
 
-## Course Schedule
+•	Feb 20 –Democratic Transitions
+          Read: CGG Ch 8
 
-- To be added
+•	Feb 25 – Democratic Transitions
+            Read: CGG Ch 8
+
+•	Feb 25 – Democratic Transitions
+            Read: CGG Ch 8
+            **Discussion post 3 is due in D2L.**
+
+•	Feb 27 – Democracy or Dictatorship, does it make a difference? 
+           Read: CGG Ch 9
+
+•	Mar 4 Exam Review
+
+•	Mar 6 – Midterm Exam
+
+•	March 10-14 Spring Break
+
+•	March 18 – Democracy or Dictatorship, does it make a difference? [China vs. India] 
+            Read: CGG Ch 9
+
+•	March 20 –Varieties of Autocracy
+          Read: CGG Ch 10
+          **Discussion post 4 is due in D2L.**
+          **The draft paper assignment is due on March 20.**
+
+•	March 25 – Varieties of Autocracy 
+            Read: CGG Ch 10
+            **The peer review assignment is due on March 25.**
+
+•	March 27 – Democracies – Presidential vs. Parliamentary 
+            Read: CGG Ch 12
+
+•	April 1 – Democracies – Presidential vs. Parliamentary 
+            Read: CGG Ch 12
+•	April 3 – Democracies – Elections and Electoral Systems 
+             Read: CGG Ch 13
+            **Discussion post 5 is due in D2L.**
+
+•	April 8 – Democracies – Elections and Electoral Systems 
+             Read: CGG Ch 13
+
+•	April 10 – Democracies – Elections and Electoral Systems 
+            Read: CGG Ch 13
+
+•	April 15– Social Cleavages and Party Systems 
+             Read: CGG Ch 14
+
+•	April 17 – Social Cleavages and Party Systems
+              Read: CGG Ch 14
+
+•	April 22 – Social Cleavages and Party Systems 
+               Read: CGG Ch 14
+
+•	April 24 – Consequences of Democratic Institutions 
+              Read: CGG Ch 16
+
+•	April 29 – Consequences of Democratic Institutions 
+              Read: CGG Ch 16
+              **The final paper assignment is due on April 29.**
+
+•	May 1 – Consequences of Democratic Institutions 
+              Read: CGG Ch 16
+
+•	May 6 – Exam Review
+
+•	May 14 (1 pm) – Final Exam
+
+
 
 
 

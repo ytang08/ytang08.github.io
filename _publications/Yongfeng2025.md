@@ -14,6 +14,6 @@ Founding leader personality cults are crucial components of national narratives.
 
 [Download paper here](https://journals.sagepub.com/doi/full/10.1177/00104140251381777)
 
-DOI: [10.1177/00104140251381777]([https://doi.org/10.1177/00104140251381777])
+DOI: [10.1177/00104140251381777](https://doi.org/10.1177/00104140251381777)
 
 

@@ -1,19 +1,19 @@
 ---
-title: "How Large-scale Land Protests Succeed in China: The Role of Domestic Media."
+title: "Founding Leaders and National Narratives: Anthropomorphism and the Roots of Founding Leader Personality Cults in Three East Asian Cases."
 collection: publications
-permalink: /publication/Yongfeng2021
-date: 2021-06-08 01:00:00 +0500
-venue: 'Journal of Chinese Political Science'
-paperurl: 'https://link-springer-com.ezproxy4.library.arizona.edu/article/10.1007/s11366-020-09699-z'
-doi: '10.1007/s11366-020-09699-z'
+permalink: /publication/Yongfeng2025
+date: 2025-10-07 01:00:00 +0500
+venue: 'Comparative Political Studies'
+paperurl: '[(https://journals.sagepub.com/doi/full/10.1177/00104140251381777)]'
+doi: '10.1177/00104140251381777'
 pubtype: 'journal'
-authors: 'Yongfeng Tang, Isabell Cote'
+authors: 'Paul Schuler, Trung-Anh Nguyen, Yongfeng Tang, Mohammad Khan'
 excerpt_separator: ""
 ---
-Land protests account for a large proportion of all protests in China, but existing scholarship on the topic does not explain the conditions under which large-scale land protests succeed or fail. Focusing on the role of domestic media in four of the largest land protests in China from 2012 to 2017, we argue that protests are more likely to succeed –i.e., to accomplish some or all publicly stated goals—when the domestic media side with villagers; conversely, if the domestic media adopt the government’s framing of the events or if they do not report on them, protests are less likely to accomplish their goals. This article makes two theoretical contributions to the literature on media and protests: first, we show that domestic media may function as catalysts or watchdogs in protest outcomes in authoritarian states; and second, we differentiate between short-term and long-term protest outcomes, highlighting how initial short-term concessions are often reversed or followed by repression some months or years later, after unrest dies down.
+Founding leader personality cults are crucial components of national narratives. Yet, relatively little research examines how they emerge. A small political science literature argues that cults follow a personalization of power to dominate society and induce loyalty. We argue this conceptualization explains late-stage cults. We theorize that rival elites sometimes intentionally promote a leader’s image prior to personalization to generate emotional connections to the masses. We call these cults of legitimation. To explain why elites concede to cults that could erode their own power, we apply social psychology research to argue that personality cults can generate greater emotional attachment to an abstract group – in this case a nation – by anthropomorphizing it. Symbols alone are less powerful in this regard. Using Vietnam, China, and Indonesia, we process trace cult emergence to demonstrate the plausibility of our theory. Our paper provides a new perspective on a visible, undertheorized component of authoritarian rule.
 
-[Download paper here](https://link-springer-com.ezproxy4.library.arizona.edu/article/10.1007/s11366-020-09699-z)
+[Download paper here][(https://journals.sagepub.com/doi/full/10.1177/00104140251381777)]
 
-DOI: [10.1007/s11366-020-09699-z](https://doi.org/10.1007/s11366-020-09699-z)
+DOI: [10.1177/00104140251381777]([https://doi.org/10.1177/00104140251381777])
 
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Yongfeng2025
 date: 2025-10-07 01:00:00 +0500
 venue: 'Comparative Political Studies'
-paperurl: '[(https://journals.sagepub.com/doi/full/10.1177/00104140251381777)]'
+paperurl: 'https://journals.sagepub.com/doi/full/10.1177/00104140251381777'
 doi: '10.1177/00104140251381777'
 pubtype: 'journal'
 authors: 'Paul Schuler, Trung-Anh Nguyen, Yongfeng Tang, Mohammad Khan'

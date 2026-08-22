@@ -15,7 +15,7 @@ My research focuses on personalized rule and political institutions in authorita
 
 My work has been published in _**Comparative Political Studies**_ and _**Journal of Chinese Political Science**_.
 
-For more information, please see my CV[PDF](). You can reach me at <ins>ytang@mun.ca</ins> with questions about my research.
+For more information, please see my [CV(PDF)](/assets/pdf/CV-Yongfeng Tang (2026.4.27)). You can reach me at <ins>ytang@mun.ca</ins> with questions about my research.
 
 
 

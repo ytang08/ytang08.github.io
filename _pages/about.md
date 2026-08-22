@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yongfeng's website"
+title: "Yongfeng Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

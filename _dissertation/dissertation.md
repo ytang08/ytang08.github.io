@@ -1,11 +1,9 @@
-
 ---
 title: "Dissertation"
 collection: dissertation
 permalink: /dissertation/
 layout: single
 author_profile: true
-
 ---
 
 # Dissertation

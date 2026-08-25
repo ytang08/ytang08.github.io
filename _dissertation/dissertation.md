@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# Dissertation
 
 ## The Personalization of Power and its Impact on Law-making in Authoritarian China: from Jiang to Xi
 

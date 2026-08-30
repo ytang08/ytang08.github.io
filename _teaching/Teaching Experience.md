@@ -8,7 +8,7 @@ date: 2026-08-01
 location: "Milwaukee, WI & Tucson, AZ"
 ---
 
-
+""
 
 ### Marquette University
 

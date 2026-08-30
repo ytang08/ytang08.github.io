@@ -15,7 +15,7 @@ My research focuses on personalist rule and political institutions in authoritar
 
 My work has been published in _**Comparative Political Studies**_ and _**Journal of Chinese Political Science**_.
 
-For more information, please see my [CV(PDF)](/assets/pdf/CV-Yongfeng%20Tang%20(26.8.24).pdf). You can reach me at <ins>ytang@mun.ca</ins> with questions about my research.
+For more information, please see my [CV(PDF)](/assets/pdf/CV-Yongfeng%20Tang%20(2026.8.24).pdf). You can reach me at <ins>yongfeng.tang@marquette.edu</ins>.
 
 
 

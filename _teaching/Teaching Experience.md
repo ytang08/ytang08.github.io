@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience (teaching of record)"
+title: "Teaching experience (in-person & teaching of record)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-experience
